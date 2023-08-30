@@ -1,0 +1,14 @@
+node_modules
+node_modules/@openzeppelin/contracts
+artifacts
+cache
+coverage*
+gasReporterOutput.json
+package.json
+img
+.env
+.*
+README.md
+coverage.json
+
+typechain
